@@ -3,7 +3,10 @@
 
 **saadyousuf45/saadyousuf45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Passionate Teacher, Researcher, Innovator, and Problem solver. Electrical Engineer with diverse
+knowledge and experience in Hardware and Software Programming, Electronics, Renewable Energy,
+Computer Vision, Artificial Intelligence, coupled with Educational Pedagogy and Philosophy looking to
+expand the boundaries of knowledge and Technology by collaborating with high-performing individuals.
 
 - 🔭 I’m currently working on [Age, Gender and Attire in the wild.](https://github.com/saadyousuf45/Age-Attire-Gender-Detection-and-Classification)
 - 🌱 I’m currently strengthening the basics of data.
