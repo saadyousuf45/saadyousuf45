@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**saadyousuf45/saadyousuf45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saadyousuf45/saadyousuf45** is a ✨ _SpeciaL_KinD_of_AniMal_✨ 
 
 I am a Passionate Teacher, Researcher, Innovator, and Problem solver. Electrical Engineer with diverse
 knowledge and experience in Hardware and Software Programming, Electronics, Renewable Energy,
