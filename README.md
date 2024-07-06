@@ -8,7 +8,7 @@ knowledge and experience in Hardware and Software Programming, Electronics, Rene
 Computer Vision, Artificial Intelligence, coupled with Educational Pedagogy and Philosophy looking to
 expand the boundaries of knowledge and Technology by collaborating with high-performing individuals.
 
-- 🔭 I’m currently working on [Age, Gender and Attire in the wild.](https://github.com/saadyousuf45/Age-Attire-Gender-Detection-and-Classification)
+- 🔭 I’m currently working on [Age, Gender and Attire in the wild.](https://github.com/saadyousuf45/Age-Attire-Gender-Detection-and-Classification), target is to get deployable packages ready as soon as possible for different types of platforms from mobile devices, CCTV cameras to edge devices. 
 - 🌱 I’m currently strengthening the basics of data.
 - 👯 I’m looking to collaborate on facial based analytics, such as age estimation, gender classification in the wild. 
 - 🤔 I’m looking for help with implementing custom loss functions in object detection algorithms.
